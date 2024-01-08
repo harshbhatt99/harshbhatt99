@@ -19,22 +19,24 @@ My Publications:
 
 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/harshbhatt9](https://www.linkedin.com/in/harshbhatt9/))
-[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/yourchannelid](https://www.youtube.com/@HarshBhatt_Tech))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://www.instagram.com/yourusername](https://www.instagram.com/harshbhatt.tech?igsh=MWZyeGpwcm90OHJvZg%3D%3D&utm_source=qr )
-
-
-
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=harshbhatt99&count_private=true&show_icons=true)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshbhatt9)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@HarshBhatt_Tech)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/harshbhatt.tech?igsh=MWZyeGpwcm90OHJvZg%3D%3D&utm_source=qr )
 ![Profile views](https://komarev.com/ghpvc/?username=harshbhatt99)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshbhatt99)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshbhatt99&count_private=true&show_icons=true" alt="GitHub Activity" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshbhatt99" alt="GitHub Streak" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshbhatt99" alt="Trophies" width="100%" />
+</p>
 
-![yourusername's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshbhatt99&show_icons=true)
 
-![Coding time](https://coding-time-tracker.herokuapp.com/?user=harshbhatt99)
+
+
 
 
 
