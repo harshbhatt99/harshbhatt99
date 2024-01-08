@@ -11,17 +11,29 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for an Internship / Co-Op in AI, Robotics, Data Science
 - 💬 Ask me about Sustainable Innovation & Responsible AI
 
-My Publications:
+**My Publications:**
 - Article: [Ethical concerns about AI-enabled companion robots for kids](https://medium.com/@hubhatt09/ethical-concerns-about-ai-enabled-companion-robots-for-kids-39356c4fa8af)
 - Digital Course: [Robotics and Python Programming with Webots Simulator](https://www.udemy.com/course/robotics-and-python-programming-with-webots-simulator/)
 - Paper: [Inverse Kinematics Solution For Piecewise Continuum Hyper-Redundant Robot Using Vector-Space Representation - Page 164](https://www.intechopen.com/chapters/64995)
 
-Connect with me
+**Connect with me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshbhatt9)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@HarshBhatt_Tech)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/harshbhatt.tech?igsh=MWZyeGpwcm90OHJvZg%3D%3D&utm_source=qr )
 ![Profile views](https://komarev.com/ghpvc/?username=harshbhatt99)
+
+**Languages & Tools**
+
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img alt="ROS" src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img alt="ROS 2" src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+</p>
+
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshbhatt99&count_private=true&show_icons=true" alt="GitHub Activity" width="100%" />
