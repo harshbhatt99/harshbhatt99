@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 **Connect with me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshbhatt9)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@HarshBhatt_Tech)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLL01qS1icxY7ICVabdpydi6KA4cVHj6Uz)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/harshbhatt.tech?igsh=MWZyeGpwcm90OHJvZg%3D%3D&utm_source=qr )
 ![Profile views](https://komarev.com/ghpvc/?username=harshbhatt99)
 
