@@ -1,8 +1,8 @@
 ### Hi, I am Harsh 👋 
 
-I am a Machine Learning engineer and Roboticist. With Master degree in Mechatronics and 2 post-graduate degrees in Industrial Automation and Applied AI, I have expanded my knowledge to multiple disciplines. I enjoy working where multiple engineering and science fields are merging. I have led teams and managed projects in the past. 
-Currently, I am seeking an internship / co-op in the field of Artificial Intelligence, Robotics, Data Science, and Computer Vision.
-I believe in sustainable innovation and intend to work in that direction.
+I am a Machine Learning engineer and Roboticist. With a Master's degree in Mechatronics and 2 post-graduate degrees in Industrial Automation and Applied AI, I have expanded my knowledge to multiple disciplines. I enjoy working where multiple engineering and science fields are merging. I have led teams and managed projects in the past. 
+Currently, I am working in the field where automation, robotics, data engineering, and AI merge.
+I am an advocate of sustainable development and intend to contribute in that direction.
 
 Here are some ideas to get you started:
 
