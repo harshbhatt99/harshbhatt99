@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ROS2, Machine Learning, AI projects
 - 🌱 I’m currently learning Deep Learning, Computer Vision, Autonomous Navigation
-# - 🤔 I’m looking for an Internship / Co-Op in AI, Robotics, Data Science
+<!--- - 🤔 I’m looking for an Internship / Co-Op in AI, Robotics, Data Science -->
 - 💬 Ask me about Sustainable Innovation & Responsible AI
 
 **My Publications:**
