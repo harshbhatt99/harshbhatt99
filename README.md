@@ -38,7 +38,12 @@ Here are some ideas to get you started:
   <img alt="MS SQL Server" src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-
+<!--
+Uncomment this section when the Python or other language % increases
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbhatt99&layout=compact" alt="Top Languages" width="100%" />
+</p>
+-->
 
 
 
