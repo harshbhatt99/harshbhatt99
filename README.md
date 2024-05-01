@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ROS2, Machine Learning, AI projects
 - 🌱 I’m currently learning Deep Learning, Computer Vision, Autonomous Navigation
-<!--- - 🤔 I’m looking for an Internship / Co-Op in AI, Robotics, Data Science -->
 - 💬 Ask me about Sustainable Innovation & Responsible AI
+<!--- - 🤔 I’m looking for an Internship / Co-Op in AI, Robotics, Data Science -->
 
 **My Publications:**
 - Article: [Ethical concerns about AI-enabled companion robots for kids](https://medium.com/@hubhatt09/ethical-concerns-about-ai-enabled-companion-robots-for-kids-39356c4fa8af)
