@@ -7,7 +7,7 @@ I am an advocate of sustainable development and intend to contribute in that dir
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ROS2, Machine Learning, AI projects
-- 🌱 I’m currently learning Deep Learning, Computer Vision, Autonomous Navigation
+- 🌱 I’m currently learning Smart Automation, Deep Learning, Computer Vision, Autonomous Navigation, SCADA.
 - 💬 Ask me about Sustainable Innovation & Responsible AI
 <!--- - 🤔 I’m looking for an Internship / Co-Op in AI, Robotics, Data Science -->
 
