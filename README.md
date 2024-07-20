@@ -37,6 +37,8 @@ Here are some ideas to get you started:
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MS SQL Server" src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Ignition" src="https://img.shields.io/badge/Ignition-F48B24?style=for-the-badge&logo=ignition&logoColor=white"/>
+
 </p>
 <!--
 Uncomment this section when the Python or other language % increases
