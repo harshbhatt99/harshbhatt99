@@ -1,13 +1,10 @@
 ### Hi, I am Harsh 👋 
 
-I am a Machine Learning engineer and Roboticist. With a Master's degree in Mechatronics and 2 post-graduate degrees in Industrial Automation and Applied AI, I have expanded my knowledge to multiple disciplines. I enjoy working where multiple engineering and science fields MERGE. I enjoy finding the application and challenges where I can use my technical skills to solve real-life challenges for sustainable development.
-Currently working as a SCADA Application Developer and an integrator where I develop SCADA applications, program industrial robots and PLCs.
+I am a Roboticist and SCADA Developer with multiple years of experience in industrial automation and robotics. My work spans multiple industries where I integrate systems, program robots, and develop SCADA applications to deliver end-to-end automation solutions.
 
-Here are some ideas to get you started:
+I have a genuine passion for teaching and enjoy sharing the knowledge and experience I have built in the field. I believe that real learning comes from people who have worked in the industry — not just studied it — and that is what I bring to every course I create.
 
-- 🔭 I’m currently working on developing industrial solutions with ROS2 and other open-source robotics frameworks.
-- 🌱 I’m currently learning cyber security in industrial systems.
-- 💬 Ask me how I can solve your industrial challenges and provide integrated solutions.
+I enjoy connecting with professionals from the same space, exchanging ideas, and growing both personally and professionally through those conversations.
 
 **My Publications:**
 - Article: [Ethical concerns about AI-enabled companion robots for kids](https://medium.com/@hubhatt09/ethical-concerns-about-ai-enabled-companion-robots-for-kids-39356c4fa8af)
